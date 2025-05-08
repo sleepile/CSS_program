@@ -24,6 +24,10 @@
 
    **[University of Chicago, Master in Computational Social Science](https://macss.uchicago.edu/)**
 
+## Denmark
+  **[University of Copenhagen,Master of Science (MSc) in Social Data Science](https://www.ku.dk/studies/masters/social-data-science)**
+
+
 # PhD programs (Examples of reseachers in the program/institution listed)
 
 ## Canada
